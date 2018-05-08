@@ -1,0 +1,11 @@
+C:\Users\Cengizhan K\source\repos\at ilerleyişi\at ilerleyişi\bin\Debug\at ilerleyişi.exe.config
+C:\Users\Cengizhan K\source\repos\at ilerleyişi\at ilerleyişi\bin\Debug\at ilerleyişi.exe
+C:\Users\Cengizhan K\source\repos\at ilerleyişi\at ilerleyişi\bin\Debug\at ilerleyişi.pdb
+C:\Users\Cengizhan K\source\repos\at ilerleyişi\at ilerleyişi\obj\Debug\at ilerleyişi.csprojResolveAssemblyReference.cache
+C:\Users\Cengizhan K\source\repos\at ilerleyişi\at ilerleyişi\obj\Debug\at_ilerleyişi.Form1.resources
+C:\Users\Cengizhan K\source\repos\at ilerleyişi\at ilerleyişi\obj\Debug\at_ilerleyişi.Properties.Resources.resources
+C:\Users\Cengizhan K\source\repos\at ilerleyişi\at ilerleyişi\obj\Debug\at ilerleyişi.csproj.GenerateResource.Cache
+C:\Users\Cengizhan K\source\repos\at ilerleyişi\at ilerleyişi\obj\Debug\at ilerleyişi.csproj.CoreCompileInputs.cache
+C:\Users\Cengizhan K\source\repos\at ilerleyişi\at ilerleyişi\obj\Debug\at ilerleyişi.exe
+C:\Users\Cengizhan K\source\repos\at ilerleyişi\at ilerleyişi\obj\Debug\at ilerleyişi.pdb
+C:\Users\Cengizhan K\source\repos\at ilerleyişi\at ilerleyişi\obj\Debug\at_ilerleyişi.Form2.resources
